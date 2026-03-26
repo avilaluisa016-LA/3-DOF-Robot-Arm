@@ -78,3 +78,7 @@ The main sketch is located in the `/src` folder. Key libraries used:
 - Replace the Adafruit Feather M0 ATWINC with the Adafruit Feather M0 LoRa for wireless communication capabilities
 - Design and 3D print a custom arm structure in Fusion 360
 ---
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
