@@ -1,3 +1,4 @@
+<img width="3011" height="2603" alt="TontoAssembled" src="https://github.com/user-attachments/assets/d0a80ca1-46c9-45be-9045-dff72ded83df" />
 # 3 DOF Robotic Arm – Joystick Controlled
 A microcontroller-based robotic arm with three degrees of freedom (DOF), controlled in real time using a joystick. Built using the Adafruit Feather M0 and the Adafruit 8 Channel Servo Controller, this project was developed as a hands-on learning exercise in robotic arm design, embedded systems, and the fundamentals of inverse kinematics.
 ---
